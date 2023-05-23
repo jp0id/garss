@@ -4,10 +4,8 @@
 
 ## 《嘎!RSS》🐣为打破信息茧房而生
 
-![](https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/ga-rss.png)
-
 这个名为**嘎!RSS**的项目会利用免费的Github Actions服务, 提供一个内容全面的信息流, 让现代人的知识体系更广泛, 减弱信息茧房对现代人的影响, 让**非茧房信息流**造福人类~
-[《嘎!RSS》永久开源页面: https://github.com/zhaoolee/garss](https://github.com/zhaoolee/garss)
+[《嘎!RSS》永久开源页面: https://github.com/zhaoolee/garss](https://github.com/Jv0id/garss)
 
 ## 推荐使用什么软件订阅RSS？
 我推荐一款免费的浏览器扩展程序Feedbro ，使用教程[Chrome插件英雄榜第96期《Feedbro》在Chrome中订阅RSS信息流](https://www.v2fy.com/p/096-feedbro-2021-02-27/)
@@ -280,18 +278,18 @@
 
 ## 批量导入所有RSS订阅
 
-OPML V2.0:  [https://raw.githubusercontent.com/zhaoolee/garss/main/zhaoolee_github_garss_subscription_list_v2.opml](https://raw.githubusercontent.com/zhaoolee/garss/main/zhaoolee_github_garss_subscription_list_v2.opml) 
+OPML V2.0:  [https://raw.githubusercontent.com/zhaoolee/garss/main/zhaoolee_github_garss_subscription_list_v2.opml](https://raw.githubusercontent.com/Jv0id/garss/main/zhaoolee_github_garss_subscription_list_v2.opml) 
 
-OPML V2.0 备用CDN地址: [https://cdn.jsdelivr.net/gh/zhaoolee/garss/zhaoolee_github_garss_subscription_list_v2.opml](https://cdn.jsdelivr.net/gh/zhaoolee/garss/zhaoolee_github_garss_subscription_list_v2.opml)
+OPML V2.0 备用CDN地址: [https://cdn.jsdelivr.net/gh/zhaoolee/garss/zhaoolee_github_garss_subscription_list_v2.opml](https://cdn.jsdelivr.net/gh/Jv0id/garss/zhaoolee_github_garss_subscription_list_v2.opml)
 
 
 
-> 如果RSS软件版本较老无法识别以上订阅,请使用[V1.0版本的OPML订阅信息](https://raw.githubusercontent.com/zhaoolee/garss/main/zhaoolee_github_garss_subscription_list_v1.opml) [V1.0版本的OPML订阅信息备用CDN地址](https://cdn.jsdelivr.net/gh/zhaoolee/garss/zhaoolee_github_garss_subscription_list_v1.opml)
+> 如果RSS软件版本较老无法识别以上订阅,请使用[V1.0版本的OPML订阅信息](https://raw.githubusercontent.com/Jv0id/garss/main/zhaoolee_github_garss_subscription_list_v1.opml) [V1.0版本的OPML订阅信息备用CDN地址](https://cdn.jsdelivr.net/gh/Jv0id/garss/zhaoolee_github_garss_subscription_list_v1.opml)
 
 
 ## 如何定制自己的私人简报?
 
-从 github.com/zhaoolee/garss.git 仓库, fork一份程序到自己的仓库
+从 github.com/Jv0id/garss.git 仓库, fork一份程序到自己的仓库
 
 允许运行actions
 
@@ -309,10 +307,10 @@ OPML V2.0 备用CDN地址: [https://cdn.jsdelivr.net/gh/zhaoolee/garss/zhaoolee_
 {
     "tasks": [
         {
-            "email": "zhaoolee@gmail.com"
+            "email": "jiangpengisme@gmail.com"
         },
         {
-            "email": "zhaoolee@foxmail.com"
+            "email": "jiangpengisme@foxmail.com"
         }
     ]
 }
@@ -349,11 +347,6 @@ yag.send('填收件人邮箱', '主题:学习使我快乐', contents)
 
 ![PC端优化后的邮件效果](https://cdn.fangyuanxiaozhan.com/assets/1630399693988c2tk8n7k.png)
 
-## 微信交流群
-
-[https://frp.v2fy.com/dynamic-picture/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4/qr.png](https://frp.v2fy.com/dynamic-picture/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4/qr.png)
-
-
 ## 广告位招租
 
-![广告位招租](https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/README/zhaoolee-link.png)
+![广告位招租](https://raw.githubusercontent.com/Jv0id/ChineseBQB/master/README/zhaoolee-link.png)
