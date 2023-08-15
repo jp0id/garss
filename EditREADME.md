@@ -349,7 +349,3 @@ yag.send('填收件人邮箱', '主题:学习使我快乐', contents)
 
 ![PC端优化后的邮件效果](https://cdn.fangyuanxiaozhan.com/assets/1630399693988c2tk8n7k.png)
 
-
-## 广告位招租
-
-![广告位招租](https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/README/zhaoolee-link.png)
