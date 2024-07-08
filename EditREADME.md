@@ -309,10 +309,10 @@ OPML V2.0 备用CDN地址: [https://cdn.jsdelivr.net/gh/zhaoolee/garss/zhaoolee_
 {
     "tasks": [
         {
-            "email": "jiangpengisme@gmail.com"
+            "email": "jp@8void.com"
         },
         {
-            "email": "jiangpengisme@foxmail.com"
+            "email": "jp@v8oid.sbs"
         }
     ]
 }
