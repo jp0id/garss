@@ -264,18 +264,10 @@
 | R003 | kindle吧 |  海量书单阅读分享者 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.kindle8.cc)  |  [订阅地址](https://www.kindle8.cc/feed) | 
 | R004 | 起点中文网 |  限时免费清单 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/qidian/free) | 
 | <h2 id="Telegram优质频道RSS订阅">Telegram优质频道RSS订阅</h2> |  |   |  |
-| TG001 | 4K影视屋 |  蓝光无损电影 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/dianying4K) |  
-| TG002 | 编程笑话 |  程序员编程笑话 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/programmerjokes) |  
-| TG003 | 薅羊毛 |  各种购物平台的优惠信息 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/yangmaoshare) |  
-| TG004 | 竹新社 |  7×24不定时编译国内外媒体的即时新闻报道。 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/tnews365) |  
-| TG005 | 书和读书 |  好书推荐。 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/GoReading) |  
-| TG006 | 阿里云盘资源分享 |  分享资源完成阿里云盘任务，收获精品资源保存到不限速网盘 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/YunPanPan) |
-| TG007 | Google Drive | 资源共享-软件-电影-纪录片-科学上网 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/YunPanPan) |
-| TG008 | 扫地僧笔记 | 扫地僧树洞 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/lover_links) |
-| TG009 | 树莓派家用云服务器 | 树莓派家用云服务器交流  | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi) |
-| TG010 | 快乐星球 | 美女图片  | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/botmzt) |
-| TG011 | Newlearnerの自留地 | 不定期推送 IT 相关资讯 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/NewlearnerChannel) |
-
+| TG001 | 竹新社 |  7×24不定时编译国内外媒体的即时新闻报道。 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://8void.xyz)  |  [订阅地址](https://8void.xyz/telegram/channel/tnews365) |  
+| TG002 | 扫地僧笔记 | 扫地僧树洞 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://8void.xyz)  |  [订阅地址](https://8void.xyz/telegram/channel/lover_links) |
+| TG003 | Newlearnerの自留地 | 不定期推送 IT 相关资讯 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://8void.xyz)  |  [订阅地址](https://8void.xyz/telegram/channel/NewlearnerChannel) |
+| TG004 | 小鹏DigitalCHL | 小鹏Digital官方公告频道，用于各种重要资讯和活动发布 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://8void.xyz)  |  [订阅地址](https://8void.xyz/telegram/channel/rocCHL) |
 
 
 ## 批量导入所有RSS订阅
