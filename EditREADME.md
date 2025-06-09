@@ -250,10 +250,9 @@
 | C033 | 恩山无线论坛  | 无线路由器爱好者的乐园 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/right/forum/31) |  
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
 | <div id="M001" style="text-align: center;"><img src="./_media/favicon/M001.png" width="30px" style="width:30px;height: auto;"/><br><span>M001</span></div> | VIP影院 |  666影院 - 全网VIP电影免费看！ | {{latest_content}}  |  [订阅地址](https://bukaivip.com/rss) |  
-| M002 | LimeTorrents |  Latest Torrents RSS | {{latest_content}}  |  [订阅地址](https://www.limetorrents.pro/rss/) |
-| M003 | Torlock |  种子站Torlock | {{latest_content}}  |  [订阅地址](https://www.torlock.com/rss.xml) | 
-| M004 | YTS |  Most popular Torrents in the smallest file size | {{latest_content}}  |  [订阅地址](https://yts.mx/rss) | 
-| M005 | RARBG |  种子站RARBG | {{latest_content}}  |  [订阅地址](https://rarbg.to/rss.php) | 
+| M002 | Torlock |  种子站Torlock | {{latest_content}}  |  [订阅地址](https://www.torlock.com/rss.xml) | 
+| M003 | YTS |  Most popular Torrents in the smallest file size | {{latest_content}}  |  [订阅地址](https://yts.mx/rss) | 
+| M004 | RARBG |  种子站RARBG | {{latest_content}}  |  [订阅地址](https://rarbg.to/rss.php) | 
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | <div id="G001" style="text-align: center;"><img src="./_media/favicon/G001.png" width="30px" style="width:30px;height: auto;"/><br><span>G001</span></div> | 机核网 |  不止是游戏 | {{latest_content}}  |  [订阅地址](https://www.gcores.com/rss) |  
 | <div id="G002" style="text-align: center;"><img src="./_media/favicon/G002.png" width="30px" style="width:30px;height: auto;"/><br><span>G002</span></div> | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | {{latest_content}}  |  [订阅地址](https://www.yystv.cn/rss/feed) |  
@@ -264,17 +263,10 @@
 | R003 | kindle吧 |  海量书单阅读分享者 | {{latest_content}}  |  [订阅地址](https://www.kindle8.cc/feed) | 
 | R004 | 起点中文网 |  限时免费清单 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/qidian/free) | 
 | <h2 id="Telegram优质频道RSS订阅">Telegram优质频道RSS订阅</h2> |  |   |  |
-| TG001 | 4K影视屋 |  蓝光无损电影 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/dianying4K) |  
-| TG002 | 编程笑话 |  程序员编程笑话 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/programmerjokes) |  
-| TG003 | 薅羊毛 |  各种购物平台的优惠信息 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/yangmaoshare) |  
-| TG004 | 竹新社 |  7×24不定时编译国内外媒体的即时新闻报道。 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/tnews365) |  
-| TG005 | 书和读书 |  好书推荐。 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/GoReading) |  
-| TG006 | 阿里云盘资源分享 |  分享资源完成阿里云盘任务，收获精品资源保存到不限速网盘 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/YunPanPan) |
-| TG007 | Google Drive | 资源共享-软件-电影-纪录片-科学上网 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/YunPanPan) |
-| TG008 | 扫地僧笔记 | 扫地僧树洞 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/lover_links) |
-| TG009 | 树莓派家用云服务器 | 树莓派家用云服务器交流  | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi) |
-| TG010 | 快乐星球 | 美女图片  | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/botmzt) |
-| TG011 | Newlearnerの自留地 | 不定期推送 IT 相关资讯 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/NewlearnerChannel) |
+| TG001 | 竹新社 |  7×24不定时编译国内外媒体的即时新闻报道。 | {{latest_content}}  |  [订阅地址](https://8void.xyz/telegram/channel/tnews365) |  
+| TG002 | 扫地僧笔记 | 扫地僧树洞 | {{latest_content}}  |  [订阅地址](https://8void.xyz/telegram/channel/lover_links) |
+| TG003 | 小鹏DigitalCHL | 小鹏Digital官方公告频道，用于各种重要资讯和活动发布 | {{latest_content}}  |  [订阅地址](https://8void.xyz/telegram/channel/rocCHL) |
+
 
 
 
